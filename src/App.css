@@ -13,6 +13,14 @@
   border-radius: 20px;
   background-color: plum;
   color: white;
+  cursor: pointer;
+  transition: all 0.5s;
+}
+
+.to-do-but:hover {
+  border: 1px solid plum;
+  background: none;
+  color: black;
 }
 
 .map {
