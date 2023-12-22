@@ -1,0 +1,23 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.to-do-but {
+  width: 150px;
+  height: 35px;
+  border: none;
+  border-radius: 20px;
+  background-color: plum;
+  color: white;
+}
+
+.map {
+  display: flex;
+  align-items: center;
+  width: 100px;
+  gap: 10px;
+}
